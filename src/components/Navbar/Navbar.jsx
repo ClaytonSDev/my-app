@@ -4,8 +4,7 @@ import logoimg from "../../assets/img/logobgaa.png";
 
 import "./style.css";
 
-export class Navbar extends React.Component {
-  render() {
+export function Navbar() {
     return (
       <header>
         <nav id="navbar">
@@ -33,4 +32,3 @@ export class Navbar extends React.Component {
       </header>
     )
   }
-}
