@@ -25,7 +25,7 @@ class App extends React.Component {
 
         <Counter />
 
-        {/* <section id="articles">
+        <section id="articles">
 
         <Article title="Designing Dashboard" provider="NASA" description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Et numquam dolor voluptatibus repudiandae cum amet ea iste. Odit, commodi. Quidem, accusantium eaque nulla fuga delectus omnis numquam magnam quae consectetur. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi, sed autem cumque unde architecto iste obcaecati ab voluptatibus quisquam impedit, voluptatem aliquam sunt ipsam consequuntur esse? Earum illum repellendus molestias! Lorem ipsum dolor sit amet consectetur adipisicing elit. Error nemo, hic voluptatibus ut necessitatibus ipsum a, unde vero temporibus, ullam voluptas ratione in odio dolore deserunt? Veritatis alias eos error?
         " thumbnail={articleimg1}/>
@@ -36,9 +36,7 @@ class App extends React.Component {
 
         <Article title="Nivea Maria" provider="Prof" description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Et numquam dolor voluptatibus repudiandae cum amet ea iste. Odit, commodi. Quidem, accusantium eaque nulla fuga delectus omnis numquam magnam quae consectetur. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi, sed autem cumque unde architecto iste obcaecati ab voluptatibus quisquam impedit, voluptatem aliquam sunt ipsam consequuntur esse? Earum illum repellendus molestias! Lorem ipsum dolor sit amet consectetur adipisicing elit. Error nemo, hic voluptatibus ut necessitatibus ipsum a, unde vero temporibus, ullam voluptas ratione in odio dolore deserunt? Veritatis alias eos error?" thumbnail={articleimg4}/>
 
-        </section> */}
-
-         
+        </section>         
       </>
     );
   }
